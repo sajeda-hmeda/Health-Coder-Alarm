@@ -15,3 +15,27 @@ Key Enhancements:
 • Logic: Sequential loops with Sleep() for resource-efficient timing.
 Future Updates
 Plan to add a GUI where users can customize these beep frequencies and intervals.
+
+📝 التحديثات الجديدة (UI & UX Update)
+تمت إضافة واجهة مستخدم تفاعلية باستخدام تقنيات الويب لتعزيز تجربة المستخدم:
+• التقنيات المستخدمة: HTML5 و CSS3.
+• المميزات البصرية:
+• تصميم عصري وأنيق (Minimalist Design) يعتمد على ألوان مريحة للعين (Pallet of Greens).
+• أزرار تفاعلية تدعم تأثيرات الـ Hover والـ Active، حيث يرتفع الزر عند مرور المؤشر وينضغط عند النقر.
+• تنسيق متجاوب يضمن ظهور التنبيهات والفقرات التحفيزية بشكل منظم.
+🛠️ خريطة العمل القادمة (Roadmap)
+• [x] تصميم واجهة المستخدم (UI Design).
+• [ ] ربط أزرار الواجهة بمنطق البرنامج المكتوب بلغة ++C.
+• [ ] تفعيل نظام التنبيهات الصوتية والمرئية بناءً على مدخلات المستخدم.
+
+🚀 Latest Updates: Interactive UI/UX
+I have successfully integrated a modern web interface to provide a better user experience:
+• Technologies Used: Built with HTML5 and CSS3 for a clean and responsive look.
+• Visual Enhancements:
+• Color Palette: Used a soothing "Coder-Health" green theme (rgb(15, 107, 90)) to reduce eye strain.
+• Interactive Buttons: Implemented custom CSS hover and active states. Buttons now lift when hovered and depress when clicked for a tactile feel.
+• Typography: Selected professional fonts to ensure clarity and readability for long coding sessions.
+🗺️ Project Roadmap
+• [x] Initial C++ Logic (Core Functionality).
+• [x] Interactive HTML/CSS UI Design.
+• [ ] Next Step: Bridge the gap between C++ and the Web UI to trigger real-time system notifications.
