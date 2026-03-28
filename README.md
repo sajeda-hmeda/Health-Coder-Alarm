@@ -41,3 +41,4 @@ I have successfully integrated a modern web interface to provide a better user e
 • [ ] Next Step: Bridge the gap between C++ and the Web UI to trigger real-time system notifications.
 <img width="1920" height="1080" alt="‏‏لقطة الشاشة (10)" src="https://github.com/user-attachments/assets/b8157fe8-54be-46c4-a4da-55c0290abfbe" />
 
+التحديثات الجديده: أصبح البرنامج يدعم تفاعل المستخدم بشكل اكبر , تم تطويره ليتيح للمستخدم امكانية تحديد الوقت و اختيار لحظة بدء العد و اختيار توقف البرنامج .
